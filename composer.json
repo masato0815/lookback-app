@@ -10,8 +10,7 @@
 		"cakephp/migrations" : "^2.0.0",
 		"cakephp/plugin-installer" : "^1.0",
 		"cakephp/debug_kit" : "^3.15.0",
-		"mobiledetect/mobiledetectlib" : "2.*",
-		"ext-memcached": "*"
+		"mobiledetect/mobiledetectlib" : "2.*"
 	},
 	"require-dev" : {
 		"cakephp/bake" : "^1.1",
